@@ -1,6 +1,6 @@
 <img src='https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg' alt="banner"></img>
 
-<h1 align="center">Hi 👋, I'm Akshat Kumar</h1>
+<h1 align="center">Hi 👋, I'm Akshat Kumar </h1>
 <h3 align="center">A curious learner and a passionate individual</h3>
 
 - 🌱 I’m currently a **Front End Web Developer** and I've completed several projects in this field
@@ -13,7 +13,7 @@
 
 - 🎊 As of now, I am exploring some other widely used languages which also peeks my interest.
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages: </h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://wallpapercave.com/wp/wp4521293.png" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cplusplus" width="40" height="40"/> </a> 
