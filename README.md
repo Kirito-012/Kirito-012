@@ -3,11 +3,17 @@
 <h1 align="center">Hi 👋, I'm Akshat Kumar</h1>
 <h3 align="center">A curious learner and a passionate individual</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently a **Front End Web Developer** and I've completed several projects in this field
 
-- 👯 I’m looking to collaborate on **Front end projects which majorly uses HTML/CSS/JavaScript**
+- ✨ I’m looking for help with **a senior developer who can help me grow**
 
-- 🤝 I’m looking for help with **a senior developer who can help me grow**
+- 👯 I’m also looking to collaborate on **Front End projects which majorly uses NextJS or ReactJS**
+
+- 🤝 I can also do a teeny-tiny bit of **Back End Development** consisting of **Flask/MongoDB/NodeJS**
+
+- 🎊 As of now, I am exploring some other widely used languages which also peeks my interest.
+
+
 
 <p align="left">
 </p>
